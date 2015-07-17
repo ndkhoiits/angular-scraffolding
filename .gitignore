@@ -1,0 +1,15 @@
+logs/*
+!.gitkeep
+node_modules/
+bower_components/
+dist/
+tmp
+.DS_Store
+.idea
+po/*.mo
+# translations.js is a generated file
+app/js/translations.js/node_modules
+/dist
+/.tmp
+/.sass-cache
+/bower_components
